@@ -2,4 +2,4 @@
 app in react to beter skills
 
 ## Steps
-kofi 
+kofi mantey
